@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Member | Woters48</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="css/stylesheet.css">
+    <link rel="icon" href="./images/Vector.png" >
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+</head>
+<body class="overflow-x-hidden">
+    <header class="bg-pink-400 h-[64px] w-screen">
+        <nav class="max-w-[1120px] h-full mx-auto flex justify-between items-center md:px[50px]">
+           <img src="images/Vector.png" alt="" class="w-auto h-[28px]">
+           <div class="flex">
+               <ul class="flex gap-[48px] text-[20px] font-semibold text-[#ffff]">
+                   <li class="hover:text-pink-800"><a href="./index.html">Home</a></li>
+                   <li class="hover:text-pink-800"><a href="./galery.html">Galery</a></li>
+                   <li class="hover:text-pink-800"><a href="./member.html">Member</a></li>
+               </ul>
+           </div>
+           <button id="loginButton" class="bg-[#DB2777] py-[5px] px-[20px] rounded-[8px] text-[#ffff] text-[16px] font-semibold ">Login</button>
+           <div id="containLog">
+               <button id="userButton" class="bg-[#DB2777] py-[5px] px-[20px] rounded-[40px] text-[#ffff] text-[16px] font-semibold hidden"><i class="fa-solid fa-user text-[#ffff]"></i></button>
+               <button id="logoutButton" class="bg-[#DB2777] py-[5px] px-[20px] rounded-[8px] text-[#ffff] text-[16px] font-semibold ">Log out</button>
+            </div>
+        </nav>
+    </header>
+
+    <main class="max-w-[1120px] h-full mx-auto mt-[20px] flex flex-col gap-[15px] mb-[50px]">
+        <div class="flex items-center gap-[15px]">
+            <h1 class="font-bold text-[32px] text-pink-700">MEMBER</h1>
+            <div class="w-[50px] bg-pink-600 h-[8px] rounded-[5px]"></div>
+        </div>
+        <div class="py-[12px] px-[16px] flex flex-col gap-[12px] rounded-[12px]" style="border: 1px solid #D1D5DB;">
+            <p class="text-13px text-neutral-500">Tentang JKT48</p>
+            <p class="text-[15px]">
+                JKT48 adalah grup idola asal Indonesia dan grup saudari AKB48 yang pertama di luar Jepang. Mengadopsi konsep AKB48, "idol you can meet". Pembentukan JKT48 pertama kali diumumkan pada 11 September 2011 di sebuah acara AKB48 yang diadakan di Makuhari Messe di Chiba. Wawancara untuk peserta berlangsung pada akhir bulan September, dengan audisi final untuk finalis pada 8 Oktober 2011-9 Oktober 2011. grup ini mengadakan pertunjukan rutin di Teater JKT48 yang terletak di Lantai 4 fX Sudirman, Jakarta Pusat, DKI Jakarta.
+            </p>
+        </div>
+        <div class="bio-member grid grid-cols-4 gap-4 "></div>
+        </div>
+    </main>
+
+    <footer class="flex relative bottom-[10px] w-full">
+        <div class="max-w-[1120px] mx-auto flex items-center gap-[10px]">
+            <div class="w-[25px] bg-pink-600 h-[5px] rounded-[5px]"></div>
+            <div>
+                <p>Created by rizalherlangga</p>
+            </div>
+            <div class="w-[25px] bg-pink-600 h-[5px] rounded-[5px]"></div>
+        </div>
+      </footer>
+
+    <script src="./member.js"></script>
+    <script src="./nav.js"></script>
+</body>
+</html>

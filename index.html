@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Woters48</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="css/stylesheet.css">
+    <link rel="icon" href="./images/Vector.png" >
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+</head>
+<body>
+    <header class="bg-pink-400 h-[64px] w-screen">
+      <nav class="max-w-[1120px] h-full mx-auto flex justify-between items-center md:px[50px]">
+         <img src="images/Vector.png" alt="" class="w-auto h-[28px]">
+         <div class="flex">
+             <ul class="flex gap-[48px] text-[20px] font-semibold text-[#ffff]">
+                 <li class="hover:text-pink-800"><a href="./index.html">Home</a></li>
+                 <li class="hover:text-pink-800"><a href="./galery.html">Galery</a></li>
+                 <li class="hover:text-pink-800"><a href="./member.html">Member</a></li>
+             </ul>
+         </div>
+         <button id="loginButton" class="bg-[#DB2777] py-[5px] px-[20px] rounded-[8px] text-[#ffff] text-[16px] font-semibold ">Login</button>
+         <div id="containLog">
+             <button id="userButton" class="bg-[#DB2777] py-[5px] px-[20px] rounded-[40px] text-[#ffff] text-[16px] font-semibold hidden"><i class="fa-solid fa-user text-[#ffff]"></i></button>
+             <button id="logoutButton" class="bg-[#DB2777] py-[5px] px-[20px] rounded-[8px] text-[#ffff] text-[16px] font-semibold ">Log out</button>
+          </div>
+      </nav>
+    </header>
+
+    <main class="max-w-[1120px] h-full mx-auto mt-[20px] flex relative">
+        <div class="max-w-2xl flex flex-col gap-[42px] box-border relative z-10">
+          <div class="font-bold text-[45px] ">
+            <h1>Hi <span class="text-pink-600">Woters48</span>,</h1>
+            <h1>Welcome to Fanbase Website</h1>
+            <h1>of JKT48</h1>
+          </div>
+          <div class="flex gap-[10px]">
+            <div class="w-[60px] bg-pink-600 h-[10px] rounded-[5px]"></div>
+            <div class="w-[40px] bg-pink-600 h-[10px] rounded-[5px]"></div>
+            <div class="w-[20px] bg-pink-600 h-[10px] rounded-[5px]"></div>
+          </div>
+          <div class="font-normal text-[15px]">
+            <p>Platform yang memberikan</p>
+            <p>informasi tentang JKT48. Mulai</p>
+            <p>dari profil member, article</p>
+            <p>tentang member, dan lainnya</p>
+          </div>
+        </div>
+        <div class="max-w-[650px] max-h-[500px] absolute top-0 right-0">
+          <img src="images/Group 1.png" alt="">
+        </div>
+    </main>
+
+    <footer class="flex absolute bottom-[10px] w-full">
+      <div class="max-w-[1120px] mx-auto flex items-center gap-[10px]">
+          <div class="w-[25px] bg-pink-600 h-[5px] rounded-[5px]"></div>
+          <div>
+              <p>Created by rizalherlangga</p>
+          </div>
+          <div class="w-[25px] bg-pink-600 h-[5px] rounded-[5px]"></div>
+      </div>
+    </footer>
+    <script src="./nav.js"></script>
+</body>
+</html>
