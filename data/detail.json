@@ -1,0 +1,82 @@
+[
+    {
+        "id":1,
+        "images": "./images/marsha/marsha6.jpg",
+        "name": "Marsha Lenathea Lapian",
+        "about": "Marsha Lenathea Lapian atau yang dikenal dengan Marsha JKT48 merupakan salah satu member JKT48 generasi kesembilan. Marsha memulai karirnya di JKT48 sebagai anggota Academy Class B, lalu dipromosikn ke Academy Class A pada 25 januari 2020.Setelah itu Marsha dipromosikan menjadi anggota inti dalam JKT48 Formasi New Era pada 11 Maret 2021.",
+        "date": "9 Januari 2006 (usia 18 tahun)",
+        "active": "2021 - Sekarang",
+        "tweet": "https://twitter.com/L_MarshaJKT48",
+        "ig": "https://www.instagram.com/jkt48.marsha/"
+    },
+    {
+        "id":2,
+        "images": "./images/detail-zee20.jpeg",
+        "name": "Azizi Shafa Asadel",
+        "about": "Azizi Shafaa Asadel, dikenal sebagai Zee JKT48 adalah seorang penyanyi, penari, dan aktris Indonesia. Zee tergabung sebagai anggota grup idola JKT48 generasi ketujuh yang diperkenalkan pada 29 September 2018.",
+        "date": "16 Mei 2004 (usia 19 tahun)",
+        "active": "2019 - Sekarang",
+        "tweet": "https://twitter.com/A_ZeeJKT48",
+        "ig": "https://www.instagram.com/jkt48.zee/"
+    },
+    {
+        "id":3,
+        "images": "./images/detail-gita20.jpeg",
+        "name": "Gita Sekar Andarini",
+        "about": "Gita Sekar Andarini atau yang lebih sering disebut dengan Gita JKT48 adalah member idol group JKT48 Generasi 6. ",
+        "date": "30 Juni 2001 (usia 22 tahun)",
+        "active": "2018 - Sekarang",
+        "tweet": "https://twitter.com/A_GitaJKT48",
+        "ig": "https://www.instagram.com/jkt48gita/"
+    },
+    {
+        "id":4,
+        "images": "./images/detail-muthe20.jpeg",
+        "name": "Mutiara Azzahra",
+        "about": "nama lengkap Mutiara Azzahra Umandana masuk JKT48 generasi tujuh pada 2018 lalu. Tak lama menjadi trainee, Muthe JKT48 langsung dipromosikan masuk ke Tim KIII pada Juli 2019. Dua tahun kemudian, Muthe ditransfer formasi ke JKT48 New Era pada Maret 2021. Sampai saat ini, member kelahiran 12 Juli 2004 ini masih aktif di JKT48.",
+        "date": "12 Juli 2004 (usia 19 tahun)",
+        "active": "2019 - Sekarang",
+        "tweet": "https://twitter.com/A_MutheJKT48",
+        "ig": "https://www.instagram.com/jkt48.muthe_/"
+    },
+    {
+        "id":5,
+        "images": "./images/detail-Fiony jkt48.jpeg",
+        "name": "Fiony Alveria Tantri",
+        "about": "Gadis cantik bernama lengkap Fiony Alveria merupakan salah satu anggota dari JKT48 generasi ke 8. Fiony Alveria mulai bergabung sebagai member Academy Class B, lalu mendapatkan promosi untuk lanjut menjadi member Academy Class A. Fiony Alveria baru bergabung dengan JKT48 pada tahun 2019.",
+        "date": "4 Februari 2002 (usia 22 tahun)",
+        "active": "2019 - Sekarang",
+        "tweet": "https://twitter.com/A_FionyJKT48",
+        "ig": "https://www.instagram.com/jkt48.fiony/"
+    },
+    {
+        "id":6,
+        "images": "./images/detail-gracia jkt48.jpeg",
+        "name": "Shania Gracia",
+        "about": "Shania Gracia atau akrab dipanggil Gracia merupakan anggota girl group JKT48 generasi ketiga. Hingga saat ini ia masih aktif berkarier di grup tersebut.",
+        "date": "31 Agustus 1999 (usia 24 tahun)",
+        "active": "2014 - Sekarang",
+        "tweet": "https://twitter.com/S_GraciaJKT48",
+        "ig": "https://www.instagram.com/jkt48gracia/"
+    },
+    {
+        "id":7,
+        "images": "./images/detail-Shani Indira Natio (Shani JKT48).jpeg",
+        "name": "Shani Indira Natio",
+        "about": "Shani mempunyai nama lengkap Shani Indira Natio. Ia merupakan member JKT48 generasi ketiga yang berasal dari Kebumen, Jawa Tengah. Gadis dengan tinggi 167 cm tersebut terjun pada dunia idol tahun 2013 silam.",
+        "date": "5 Oktober 1998 (usia 25 tahun)",
+        "active": "2014 - Sekarang",
+        "tweet": "https://twitter.com/N_ShaniJKT48",
+        "ig": "https://www.instagram.com/jkt48shani/"
+    },
+    {
+        "id":8,
+        "images": "./images/ashel/ashel12.jpg",
+        "name": "Adzana Shaliha",
+        "about": "Adzana Shaliha, yang sering disapa Ashel, lahir pada 8 Januari 2005, sehingga saat ini berusia 18 tahun. Ia memiliki tinggi badan 160 cm dan merupakan anggota generasi kesembilan dari JKT48. Sebelumnya, Ashel mengikuti audisi pada generasi ketujuh, tetapi ia memutuskan untuk mundur ketika dipanggil untuk wawancara. Ashel pertama kali diperkenalkan sebagai anggota grup pada acara Joy Kick! Tears Handshake Festival pada 1 Desember 2019. Pada 25 Januari 2020, ia dipromosikan untuk masuk ke Akademi Kelas A setelah melewati dua tahap tes. Ashel kemudian dipromosikan untuk masuk ke tim utama JKT48 pada 12 Maret 2021.",
+        "date": "8 Januari 2005 (usia 19 tahun)",
+        "active": "2021 - 2024",
+        "tweet": "https://twitter.com/asheladz",
+        "ig": "https://www.instagram.com/asheladz/"
+    }
+]

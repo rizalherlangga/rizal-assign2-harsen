@@ -1,0 +1,50 @@
+ [
+    {
+        "id":1,
+        "images": "./images/marsha/marsha1.jpg",
+        "name": "Marsha Lenathea Lapian",
+        "tags": "Marsha-Gen 9"
+    },
+    {
+        "id":2,
+        "images": "./images/zee/zee1.jpg",
+        "name": "Azizi Shafa Asadel",
+        "tags": "Zee-Gen 7"
+    },
+    {
+        "id":3,
+        "images": "./images/gita/Gita1.jpeg",
+        "name": "Gita Sekar Andarini",
+        "tags": "Gita-Gen 6"
+    },
+    {
+        "id":4,
+        "images": "./images/muthe/muthe1.jpeg",
+        "name": "Mutiara Azzahra",
+        "tags": "Muthe-Gen 7"
+    },
+    {
+        "id":5,
+        "images": "./images/fiony/fiony1.jpeg",
+        "name": "Fiony Alveria Tantri",
+        "tags": "Fiony-Gen 8"
+    },
+    {
+        "id":6,
+        "images": "./images/gracia/gracia1.jpeg",
+        "name": "Shania Gracia",
+        "tags": "Gracia-Gen 3"
+    },
+    {
+        "id":7,
+        "images": "./images/shani/Shani1.jpeg",
+        "name": "Shani Indira Natio",
+        "tags": "Shani-Gen 3"
+    },
+    {
+        "id":8,
+        "images": "./images/ashel/ashel1.jpeg",
+        "name": "Adzana Shaliha",
+        "tags": "Ashel-Gen 9"
+    }
+]
